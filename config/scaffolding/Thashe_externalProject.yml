@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Thashe_externalProject
+  gitServerName: thajinu_github
+  gitUrl: https://github.com/thajinushehin
+  gitUsername: thajinushehin
+  gitBranch: main
