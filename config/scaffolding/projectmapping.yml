@@ -7,3 +7,5 @@ runtimes:
     type: DAF
   - name: thaj_github_private
     type: DAF
+  - name: thaj_github_internal
+    type: DAF
