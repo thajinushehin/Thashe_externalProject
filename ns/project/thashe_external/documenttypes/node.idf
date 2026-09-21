@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">project.thashe_external.documenttypes</value>
+  <value name="node_pkg">Thashe_externalProject</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Thajinu.Shehin@ibm.com</value>
+    <value name="modifiedBy">Thajinu.Shehin@ibm.com</value>
+    <value name="createdDate">2026-09-21T09:30:41.255907527Z</value>
+    <value name="lastModifiedDate">2026-09-21T09:30:41.255907527Z</value>
+  </record>
+  <value name="is_public">false</value>
+</Values>
