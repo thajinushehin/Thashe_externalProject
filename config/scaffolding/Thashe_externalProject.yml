@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/thajinushehin
   gitUsername: thajinushehin
   gitBranch: main
+services:
+- serviceName: project.thashe_external.integrations:Date
+  packages:
+  - name: Thashe_externalProject
+    version: "1.0"
+- serviceName: pub.date:dateBuild
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.1143
