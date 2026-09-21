@@ -1,0 +1,7 @@
+version: "1.0"
+projectName: Thashe_externalProject
+runtimes:
+- runtimeAlias: Cloud Runtime
+  assets:
+  - name: thaj_github_public
+    type: DAF
