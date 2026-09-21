@@ -5,3 +5,5 @@ runtimes:
   assets:
   - name: thaj_github_public
     type: DAF
+  - name: thaj_github_private
+    type: DAF
